@@ -52,7 +52,7 @@ The dataset consists of customer purchasing behavior with features such as:
 
 ---
 
-# Multiple Linear Regression
+# 2) Multiple Linear Regression
 
 ## Dataset
 The dataset consists of housing features:
